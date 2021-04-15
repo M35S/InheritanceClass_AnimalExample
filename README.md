@@ -1,5 +1,5 @@
 # InheritanceClass_AnimalExample
-An example of an Aggregation class relationship type.
+An example of an Inheritance class relationship type.
 
 ## UML Class Diagram Inheritance
 
